@@ -54,3 +54,15 @@ ul.a {
 ul.b {
 	list-style-type: circle;
 }
+
+#header {
+	float: left;
+	width: 70%
+	margin: 0 5%;
+}
+
+#main {
+	float: left;
+	width: 75%;
+	margin 0 5%;
+}
