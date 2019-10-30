@@ -71,7 +71,7 @@ ul.b {
 	text-align: center;
 	height: 3.2em;
 	line-height: 3.2em;
-	background: #A6D2FF;
+	background: #FFFFFF;
 	border-top: 2px solid;
 	border-bottom: 2px solid;
 	margin: 0 0 30px;
@@ -92,5 +92,5 @@ ul.b {
 }
 
 #nav a:hover, #nav a:focus {
-	color: #ffffff
+	color: #FFF
 }
